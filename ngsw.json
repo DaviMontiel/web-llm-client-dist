@@ -1,0 +1,109 @@
+{
+  "configVersion": 1,
+  "timestamp": 1790603576781,
+  "index": "/web-llm-client-dist/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/web-llm-client-dist/chunk-4Xmqra3L.js",
+        "/web-llm-client-dist/chunk-B9S72Bk1.js",
+        "/web-llm-client-dist/chunk-BNvwSQPP.js",
+        "/web-llm-client-dist/chunk-BQfRyx7H.js",
+        "/web-llm-client-dist/chunk-BoUsJ2OK.js",
+        "/web-llm-client-dist/chunk-C1yslV_H.js",
+        "/web-llm-client-dist/chunk-CWjmqFpC.js",
+        "/web-llm-client-dist/chunk-CkJuRY1N.js",
+        "/web-llm-client-dist/chunk-Cn7q7d-f.js",
+        "/web-llm-client-dist/chunk-D96bCE2W.js",
+        "/web-llm-client-dist/chunk-DLh0pVxx.js",
+        "/web-llm-client-dist/chunk-DTdY0vNm.js",
+        "/web-llm-client-dist/chunk-H8LzB-YW.js",
+        "/web-llm-client-dist/chunk-SA_Aey51.js",
+        "/web-llm-client-dist/chunk-aiLSo31z.js",
+        "/web-llm-client-dist/favicon.svg",
+        "/web-llm-client-dist/index.html",
+        "/web-llm-client-dist/main-54STBQOY.js",
+        "/web-llm-client-dist/manifest.webmanifest",
+        "/web-llm-client-dist/styles-6LPLIT7E.css",
+        "/web-llm-client-dist/sw.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/web-llm-client-dist/icons/icon-128x128.png",
+        "/web-llm-client-dist/icons/icon-144x144.png",
+        "/web-llm-client-dist/icons/icon-152x152.png",
+        "/web-llm-client-dist/icons/icon-192x192.png",
+        "/web-llm-client-dist/icons/icon-384x384.png",
+        "/web-llm-client-dist/icons/icon-512x512.png",
+        "/web-llm-client-dist/icons/icon-72x72.png",
+        "/web-llm-client-dist/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/web-llm-client-dist/chunk-4Xmqra3L.js": "480d2dd84b0ee6f1d48fb63ed3bf7735b15814f3",
+    "/web-llm-client-dist/chunk-B9S72Bk1.js": "fae7216eaa186b258511a4b9645a028c9f9c7ccf",
+    "/web-llm-client-dist/chunk-BNvwSQPP.js": "422c76da41527f77adce08d18737937cdb63ddcf",
+    "/web-llm-client-dist/chunk-BQfRyx7H.js": "b9078d37b40e581a94c8f27eaa9019ece93458b8",
+    "/web-llm-client-dist/chunk-BoUsJ2OK.js": "fbf56bfd2c88250f839880d3f7927f3ccf1c6ebb",
+    "/web-llm-client-dist/chunk-C1yslV_H.js": "683338cc6ba642967465431dfc016a37309aee1f",
+    "/web-llm-client-dist/chunk-CWjmqFpC.js": "3b7c2ff223b012d76b2d63df58efa40caea126bd",
+    "/web-llm-client-dist/chunk-CkJuRY1N.js": "a4f9793cf82ac7d4a96c49fee262d39d8779ea74",
+    "/web-llm-client-dist/chunk-Cn7q7d-f.js": "3d1b84b493faba4bd0d3efc5982fe7a56c709ec0",
+    "/web-llm-client-dist/chunk-D96bCE2W.js": "3f328ecbeaedd2d43b7e79e455a85108f853564f",
+    "/web-llm-client-dist/chunk-DLh0pVxx.js": "6e7c64df855e3ef73262735046e02a805f1f0436",
+    "/web-llm-client-dist/chunk-DTdY0vNm.js": "94b3270ba814bdf12421a0ece11d7933c289a17d",
+    "/web-llm-client-dist/chunk-H8LzB-YW.js": "0afb98869d81e35b8e5e9b8e2d29ec37be1c518b",
+    "/web-llm-client-dist/chunk-SA_Aey51.js": "a66e7e5bd9ed2d7f0b9adfb384d28ac3a23f7d4c",
+    "/web-llm-client-dist/chunk-aiLSo31z.js": "4e8e9fc5dadd40eb42e56826e4f81a2456d8a0dd",
+    "/web-llm-client-dist/favicon.svg": "1f82946c199a542910d5ded24efa02dbeae49bea",
+    "/web-llm-client-dist/icons/icon-128x128.png": "d4432a2f7295827eac4d79679e2f67d1e611d81e",
+    "/web-llm-client-dist/icons/icon-144x144.png": "1f258157686d68c935d7c6319c50ead9f7631012",
+    "/web-llm-client-dist/icons/icon-152x152.png": "002e6fcfb9c57d66e79415c55dbede2a0307d6e7",
+    "/web-llm-client-dist/icons/icon-192x192.png": "7208afe74b5fd24b82214e885b93e537c1081541",
+    "/web-llm-client-dist/icons/icon-384x384.png": "0d6fa2d4960eef47bfb70a00d8676ce95f60adb9",
+    "/web-llm-client-dist/icons/icon-512x512.png": "1d9c0737f80cc2b839fde228cde31f0638ecd15a",
+    "/web-llm-client-dist/icons/icon-72x72.png": "c0dace245a8495136fee21b3bb06c01b9a3cc739",
+    "/web-llm-client-dist/icons/icon-96x96.png": "945123e44ad1fe45d077461f16ab0125b8509f36",
+    "/web-llm-client-dist/index.html": "7363a08acbceda364867c54341ced4f8b6e6e4c8",
+    "/web-llm-client-dist/main-54STBQOY.js": "0654d26ff3fc8d68bc93719ea9ec9c0257fca06c",
+    "/web-llm-client-dist/manifest.webmanifest": "747adec5e7a80f2915ffd7bbe72b7752d80d0498",
+    "/web-llm-client-dist/styles-6LPLIT7E.css": "64615d41d97116f32a524ecee179e5ae2aed8ab1",
+    "/web-llm-client-dist/sw.js": "9a3b0812b9844e65198900d42ca4c24cfdae369e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
